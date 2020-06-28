@@ -132,3 +132,4 @@ telebot/credentials.py
 
 .vscode/
 token/
+my_data/
