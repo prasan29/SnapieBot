@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 telebot/credentials.py
+
+.vscode/
+token/

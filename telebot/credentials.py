@@ -1,4 +1,6 @@
-bot_token = ""
+from telebot.token import TOKEN
+
+bot_token = TOKEN
 bot_user_name = "SnapieBot"
 URL = "http://127.0.0.1:5000/"
 
